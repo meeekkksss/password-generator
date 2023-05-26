@@ -18,6 +18,6 @@ Pull requests are welcome. for major changes, please open an issue first to disc
 
 Please refer to the LICENSE in the repo 
  
- [LICENSE](./JSPG%20LICENSE.png)
+ [image of license](./JSPG%20LICENSE.png)
 
  [MIT](https://chosealicense.com/license/mit/)
